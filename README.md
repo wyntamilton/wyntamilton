@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Security Projects:</h2>
 
 - <b> Cybersecurity Threat Detection System using Amazon SageMaker</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
+  - [AWS Threat Detection](https://github.com/wyntamilton/AWS_Threat_Detection_System)
 - <b>3-Tier WordPress website Deployment on AWS</b>
   - [Image Analysis Middleware](https://github.com/</b></i>
 - <b>Multi-Cloud Weather Tracker website with Disaster Recovery using Terraform</b>
