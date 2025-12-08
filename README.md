@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wynta Milton! </h1>Aspiring Cloud Professional</a>, 
+<h1>Hi, I'm Wynta Milton! 
 
 <h2>👨‍💻 Cloud Security Projects:</h2>
 
