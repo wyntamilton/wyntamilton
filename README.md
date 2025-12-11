@@ -5,9 +5,8 @@
 - <b> Cybersecurity Threat Detection System using Amazon SageMaker</b>
   - [AWS Threat Detection](https://github.com/wyntamilton/AWS_Threat_Detection_System)
 - <b>3-Tier WordPress website Deployment on AWS</b>
-  - [Image Analysis Middleware](https://github.com/</b></i>
-- <b>Multi-Cloud Weather Tracker website with Disaster Recovery using Terraform</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+
 
  <h2> 📄 Certification:</h2>
 
