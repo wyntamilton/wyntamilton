@@ -5,7 +5,7 @@
 - <b> Cybersecurity Threat Detection System using Amazon SageMaker</b>
   - [AWS Threat Detection](https://github.com/wyntamilton/AWS_Threat_Detection_System)
 - <b>3-Tier WordPress website Deployment on AWS</b>
-  
+   - [WordPress](https://github.com/wyntamilton/3Tier_WordPress_Website)
 
 
  <h2> 📄 Certification:</h2>
