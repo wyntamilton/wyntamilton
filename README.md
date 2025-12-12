@@ -1,6 +1,6 @@
 <h1>Hi, I'm Wynta Milton! 
 
-<h2>👨‍💻 Cloud Security Projects:</h2>
+<h2> 👩🏽‍💻 Cloud Security Projects:</h2>
 
 - <b> Cybersecurity Threat Detection System using Amazon SageMaker</b>
   - [AWS Threat Detection](https://github.com/wyntamilton/AWS_Threat_Detection_System)
